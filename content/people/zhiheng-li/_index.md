@@ -1,15 +1,15 @@
 ---
 title: Zhiheng Li
 
-user_group: "Current Members"
+user_group: "Visiting Scholars"
 
 role: 'Visiting Student' 
 
-affiliation: 'NYU'
+affiliation: 'CMU'
 
 externalUrl: "https://zl3466.github.io"
 
 weight: 4
 
-summary: "Zhiheng is an undergraduate student from Tandon Electrical and Computer Engineering major. His research and career interests lie in the fields of medical engineering, autonomous vehicle, and computer vision."
+summary: "Zhiheng graduate with B.S. in ECE from NYU Tandon Electrical and is currently M.S. ECE at Carnegie Mellon University. His research and career interests lie in the fields of medical engineering, autonomous vehicle, and computer vision."
 ---
