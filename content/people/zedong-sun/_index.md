@@ -1,7 +1,7 @@
 ---
 title: Zedong Sun
 
-user_group: "Current Members"
+user_group: "Alumni"
 
 role: "Master's Student"
 

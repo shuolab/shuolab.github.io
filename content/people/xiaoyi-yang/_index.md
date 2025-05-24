@@ -1,7 +1,7 @@
 ---
 title: Xiaoyi Yang
 
-user_group: "Visiting Scholars"
+user_group: "Alumni"
 
 role: 'Visiting Student'
 

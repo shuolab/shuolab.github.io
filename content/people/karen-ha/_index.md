@@ -1,7 +1,7 @@
 ---
 title: Karen Ha
 
-user_group: "Current Members"
+user_group: "Alumni"
 
 role: 'Undergraduate'
 

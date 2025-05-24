@@ -6,9 +6,6 @@ title: ""
 <div class="text-primary-500 text-2xl pt-8"> Selected Publications </div>
 <div class="border-b-1 py-1"></div>
 
-Chen S, McHugh TJ. [Further-reaching optogenetics](https://www.nature.com/articles/s41551-020-00648-y). 
-*Nature Biomedical Engineering*. 4:1028-1029 (2020).
-
 Chen S, He LM, Huang AJY, Boehringer R, Robert V, Wintzer ME, Polygalov D, Weitemier AZ, Tao YQ, Gu MX, 
 Namiki K, Hama H, Therreau L, Hioki H, Miyawaki A, Piskorowski RA, McHugh TJ. 
 [A hypothalamic novelty signal modulates hippocampal memory](https://www.nature.com/articles/s41586-020-2771-1). 
@@ -18,6 +15,9 @@ Namiki K, Hama H, Therreau L, Hioki H, Miyawaki A, Piskorowski RA, McHugh TJ.
 Featured in: <br/>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0166223620302654" class="text-neutral-900">*Trends in Neurosciences* Spotlight: Parallel pathways for mnemonic processing</a>
 </span>
+
+Chen S, McHugh TJ. [Further-reaching optogenetics](https://www.nature.com/articles/s41551-020-00648-y). 
+*Nature Biomedical Engineering*. 4:1028-1029 (2020).
 
 Chen S. 
 [Optical modulation goes deep in the brain](https://www.science.org/doi/10.1126/science.aay4350?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed). 
@@ -68,7 +68,7 @@ Chen S, Itoh Y, Masuda T, Shimizu S, Zhao J, Ma J, Nakamura S, Okuro K, Noguchi 
 Chen S, Lam N, Li Z, Wang D, Liu P, Berbano V, Xie Y, Nguyen T, Xu Y, Yang J, Ha K, Semana L, Dias R, Masurkar AV, 
 Wisniewski T. 
 [Acute Aβ12-28P administration targeting apoE/Aβ interaction rescues synaptic function and cognitive decline in advanced-stage Alzheimer’s disease](https://alz-journals.onlinelibrary.wiley.com/doi/abs/10.1002/alz.093081).
-*Alzheimer’s & Dementia.*. 20:e093081 (2025).
+*Alzheimer’s & Dementia*. 20:e093081 (2025).
 
 Mao H, Tang J, Day GS, Peng Y, Wang H, Xiao X, Yang Y, Jiang Y, Chen S, Halat DM, Lund A, Lv X, Zhang W, Yang C, 
 Lin Z, Zhou HC, Pines A, Cui Y, Reimer JA. 

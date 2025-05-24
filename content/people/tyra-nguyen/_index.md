@@ -1,7 +1,7 @@
 ---
 title: Tyra Nguyen
 
-user_group: "Current Members"
+user_group: "Alumni"
 
 role: 'Undergraduate'
 
