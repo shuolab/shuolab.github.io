@@ -16,8 +16,14 @@ Running `hugo --enableGitInfo` compiles the website locally and saves the compil
 
 The public folder is linked to the `gh-pages` branch of this repo. Pushing to gh-pages will automatically trigger a re-deployment of the website with content inside `gh-pages`.
 
+## People Page
+### General layout
+- There are currently two layouts available for People page: `list` and `list-group`, configured via `./people/_index.md` `layout`
+  - `list` puts everyone's headshot together
+  - `list-group` puts people of the same `user_group` together
+- To change the description text on top of People's page, modify the body content in `./people/_index.md`.
 
-## Adding / modifying members
+### Adding / modifying members
 - Inside ./content/people, create a new folder with the new member's name in the format `firstame-lastname`. 
 - The folder should then contain a `_index.md` and a `featuered.jpg` or `png` or any image format as long as the image filename is `featured` (refer to other members' folders)
 - Edit the member's info in `_index.md`
@@ -29,6 +35,16 @@ The public folder is linked to the `gh-pages` branch of this repo. Pushing to gh
   - `summary`: no use at this moment.
   - `weight`: to put a member's positioning order on the page. Lower weight indicate higher ranking (Shuo's weight is 1!)
 
+## home Page
+see `./content/_index.md`
 
+## Research page
+see `./content/research/_index.md`
+
+## Publications Page
+see `./content/publications/_index.md`
+
+## Contact Page
+see `./content/contact/_index.md`
 
 
