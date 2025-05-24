@@ -11,8 +11,6 @@ externalUrl:
 
 summary: ""
 
-weight: 3
-
 ---
 
 

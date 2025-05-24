@@ -15,7 +15,7 @@
   {{ if .Params.showBreadcrumbs | default (.Site.Params.list.showBreadcrumbs | default false) }}
   {{ partial "breadcrumbs.html" . }}
   {{ end }}
-  <h1 class="mt-5 text-8xl font-extrabold text-neutral-900 dark:text-neutral text-center">{{ .Title }}</h1>
+  <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral text-center">{{ .Title }}</h1>
   <div class="mt-1 mb-2 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
     {{ partial "article-meta/list.html" (dict "context" . "scope" "single") }}
   </div>
@@ -39,7 +39,7 @@
       mt-12
     {{- else -}}
       mt-0
-    {{- end }} prose flex max-w-full flex-col dark:prose-invert lg:flex-row">
+    {{- end }} prose flex max-w-full flex-col dark:prose-invert lg:flex-row pb-4">
     {{ if $toc }}
     <div class="order-first px-0 lg:order-last lg:max-w-xs ltr:lg:pl-8 rtl:lg:pr-8">
       <div class="toc ltr:pl-5 rtl:pr-5 lg:sticky {{ if hasPrefix .Site.Params.header.layout "fixed" -}}
@@ -48,7 +48,7 @@
       </div>
     </div>
     {{ end }}
-    <div class="min-w-0 min-h-0 max-w-prose">
+    <div class="justify-center text-content min-w-0 min-h-0 max-w-full py-1.5">
       {{ .Content | emojify }}
     </div>
   </section>
@@ -76,7 +76,7 @@
     {{ else if and $cardView (not $cardViewScreenWidth) }}
       {{ range (.Paginate (.Pages.GroupByParam "user_group" "desc")).PageGroups }}
         {{ if eq .Key "Current Members" }}
-          <h2 class="mt-12 mb-6 text-4xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300 text-center">
+          <h2 class="mb-10 text-4xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300 text-center">
             {{ .Key }}
           </h2>
           <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-4">
@@ -88,7 +88,7 @@
       {{ end }}
       {{ range (.Paginate (.Pages.GroupByParam "user_group" "desc")).PageGroups }}
         {{ if eq .Key "Visiting Scholars" }}
-          <h2 class="mt-12 mb-6 text-4xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300 text-center">
+          <h2 class="mt-12 mb-10 text-4xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300 text-center">
             {{ .Key }}
           </h2>
           <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-4">
@@ -100,7 +100,7 @@
       {{ end }}
       {{ range (.Paginate (.Pages.GroupByParam "user_group" "desc")).PageGroups }}
         {{ if eq .Key "Alumni" }}
-          <h2 class="mt-12 mb-6 text-4xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300 text-center">
+          <h2 class="mt-12 mb-10 text-4xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300 text-center">
             {{ .Key }}
           </h2>
           <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-4">
