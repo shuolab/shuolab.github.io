@@ -24,7 +24,7 @@ The public folder is linked to the `gh-pages` branch of this repo. Pushing to gh
 - To change the description text on top of People's page, modify the body content in `./people/_index.md`.
 
 ### Adding / modifying members
-- Inside ./content/people, create a new folder with the new member's name in the format `firstame-lastname`. 
+- Inside `./content/people`, create a new folder with the new member's name in the format `firstame-lastname`. 
 - The folder should then contain a `_index.md` and a `featuered.jpg` or `png` or any image format as long as the image filename is `featured` (refer to other members' folders)
 - Edit the member's info in `_index.md`
   - `title`: the person's full name
