@@ -21,12 +21,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://shuolab.github.io/people/julia-janknecht/</loc>
-    <lastmod>2025-05-24T12:55:31-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://shuolab.github.io/people/karen-ha/</loc>
     <lastmod>2025-05-24T12:55:31-04:00</lastmod>
     <changefreq>always</changefreq>
@@ -165,6 +159,12 @@
   <url>
     <loc>https://shuolab.github.io/</loc>
     <lastmod>2025-01-24T00:12:35-05:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://shuolab.github.io/people/julia-janknecht/</loc>
+    <lastmod>2025-05-24T13:18:22-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
