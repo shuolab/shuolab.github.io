@@ -1,7 +1,7 @@
 ---
 title: Zongye Hu
 
-user_group: "Visiting Scholars"
+user_group: "Alumni"
 
 role: 'Visiting Student'
 
