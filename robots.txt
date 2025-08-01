@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shuolab.github.io/sitemap.xml
