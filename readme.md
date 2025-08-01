@@ -10,7 +10,7 @@ hugo --enableGitInfo
 cd public
 git add .
 git commit -m "your commit msg here"
-git push origin gh-pages
+git push origin `git subtree split --prefix public HEAD`:gh-pages --force
 ```
 Running `hugo --enableGitInfo` compiles the website locally and saves the compilation result inside the `public` folder.
 
