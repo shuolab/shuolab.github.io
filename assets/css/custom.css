@@ -1,0 +1,33 @@
+/* Custom CSS for text spacing adjustments */
+
+/* Adjust overall text spacing for the entire site */
+body {
+  /* Line-height (line spacing): adjust from default 1.5 to your preference */
+  /* Options: 1.5 (default), 1.6, 1.7, 1.8, 2.0, etc. */
+  line-height: 1.6;
+  
+  /* Letter-spacing (character spacing): adjust character spacing */
+  /* Options: normal (default), 0.5px, 1px, 0.05em, -0.5px, etc. */
+  letter-spacing: normal;
+  
+  /* Word-spacing (space between words): adjust word spacing */
+  /* Options: normal (default), 2px, 0.1em, etc. */
+  word-spacing: -12px;
+}
+
+/* Adjust paragraph spacing */
+p {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+/* Adjust specific text classes if needed */
+.text-content {
+  /* line-height: 1.9rem; */ /* Uncomment and adjust as needed */
+  /* letter-spacing: 0.01em; */ /* Uncomment and adjust as needed */
+}
+
+.text-base {
+  /* line-height: 2rem; */ /* Uncomment and adjust as needed */
+}
+
