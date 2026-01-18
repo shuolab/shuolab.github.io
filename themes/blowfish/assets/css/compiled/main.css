@@ -4307,7 +4307,7 @@ pre {
 
 .grid-linking {
     display: grid;
-    grid-template-columns: calc(42% - 1rem) calc(20% - 1rem) calc(28% - 1rem);
+    grid-template-columns: calc(40% - 1rem) calc(30% - 1rem);
     gap: 1.5rem;
 }
 

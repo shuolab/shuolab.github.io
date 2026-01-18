@@ -206,16 +206,16 @@ title: ""
              <em>In vivo</em> calcium imaging using a head-mounted endoscope to probe hippocampal neural dynamics in the AD brain.
         </div>
     </div>
-    <div class="grid-img-subtitle-lg h-full">
-        <div class="h-full flex flex-col gap-4">
+    <div class="grid-img-subtitle-lg">
+        <div class="h-full flex gap-4">
             <img src="/img/research/linking_2.png" class="h-full">
-            <img src="/img/research/linking_3.png" class="h-full">
+            <img src="/img/research/linking_3.jpg" class="h-full">
         </div>
         <div>
             <div class="absolute self-start text-subtitle w-6xl">
-                (top) <em>In vitro</em> electrophysiology to measure drug-modified synaptic plasticity.
+                (left) <em>In vitro</em> electrophysiology to measure drug-modified synaptic plasticity.
                 <br>
-                (bottom) Laser capture microdissection of CA1 cell bodies for localized proteomics.
+                (right) Laser capture microdissection of CA1 cell bodies for localized proteomics.
             </div>
         </div>
     </div>
