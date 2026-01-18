@@ -1,0 +1,7 @@
+# Track all MP4 video files with Git LFS
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+
+# Optionally track other large video formats
+*.mov filter=lfs diff=lfs merge=lfs -text
+*.avi filter=lfs diff=lfs merge=lfs -text
+

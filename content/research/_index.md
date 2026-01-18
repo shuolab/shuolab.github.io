@@ -207,8 +207,9 @@ title: ""
         </div>
     </div>
     <div class="grid-img-subtitle-lg h-full">
-        <div class="h-full">
+        <div class="h-full flex flex-col gap-4">
             <img src="/img/research/linking_2.png" class="h-full">
+            <img src="/img/research/linking_3.png" class="h-full">
         </div>
         <div>
             <div class="absolute self-start text-subtitle w-6xl">

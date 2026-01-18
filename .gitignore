@@ -1,0 +1,12 @@
+# Large video files are now tracked with Git LFS (see .gitattributes)
+# *.mp4 files will be handled by Git LFS
+
+# macOS
+.DS_Store
+
+# Hugo build output (if you're building locally)
+public/
+
+# IDE
+.idea/
+
