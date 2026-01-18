@@ -207,15 +207,22 @@ title: ""
         </div>
     </div>
     <div class="grid-img-subtitle-lg">
-        <div class="h-full flex gap-4">
-            <img src="/img/research/linking_2.png" class="h-full">
-            <img src="/img/research/linking_3.jpg" class="h-full">
+        <div class="h-full flex gap-4 w-full">
+            <img src="/img/research/linking_2.png" class="h-full flex-1 min-w-0 object-contain">
         </div>
         <div>
-            <div class="absolute self-start text-subtitle w-6xl">
-                (left) <em>In vitro</em> electrophysiology to measure drug-modified synaptic plasticity.
-                <br>
-                (right) Laser capture microdissection of CA1 cell bodies for localized proteomics.
+            <div class="self-start text-subtitle w-full">
+                <em>In vitro</em> electrophysiology to measure drug-modified synaptic plasticity.
+            </div>
+        </div>
+    </div>
+    <div class="grid-img-subtitle-lg">
+        <div class="h-full flex gap-4 w-full">
+            <img src="/img/research/linking_3.jpg" class="h-full flex-1 min-w-0 object-contain">
+        </div>
+        <div>
+            <div class="self-start text-subtitle w-full">
+                Laser capture microdissection of CA1 cell bodies for localized proteomics.
             </div>
         </div>
     </div>

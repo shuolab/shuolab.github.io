@@ -1994,6 +1994,10 @@ b, strong {
   width:37rem
 }
 
+.w-8xl {
+  width:50rem
+}
+
 
 .w-footer-name {
   width:12rem
@@ -4305,10 +4309,15 @@ pre {
     gap: 2rem;
 }
 
-.grid-linking {
+/* .grid-linking {
     display: grid;
-    grid-template-columns: calc(40% - 1rem) calc(30% - 1rem);
+    grid-template-columns: calc(40% - 1rem) calc(60% - 1rem);
     gap: 1.5rem;
+} */
+.grid-linking {
+  display: grid;
+  grid-template-columns: calc(40% - 1rem) calc(30% - 1rem) calc(30% - 1rem);
+  gap: 1.5rem;
 }
 
 .grid-w10 {
