@@ -14,7 +14,8 @@ body {
   /* Using em units makes it automatically scale with font-size */
   /* Negative values reduce spacing, positive values increase it */
   /* Options: normal (default), -0.1em, -0.05em, 0.1em, etc. */
-  word-spacing: -0.4em;
+  /* word-spacing: -0.4em; */
+  word-spacing: normal;
 }
 
 /* Adjust paragraph spacing */
